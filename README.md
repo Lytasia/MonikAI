@@ -1,8 +1,21 @@
 # Important update
-I'll soon make this branch, the OLD one because i'm rewriting the code with Avalonia, a crossplatform equivalent to WPF, used for MonikAI, I'll just do a bunch of translation between WPF to Avalonia, and then MonikAI will be on Mac, Linux and Windows
+~~I'll soon make this branch, the OLD one because i'm rewriting the code with Avalonia, a crossplatform equivalent to WPF, used for MonikAI, I'll just do a bunch of translation between WPF to Avalonia, and then MonikAI will be on Mac, Linux and Windows~~
 
-I'll take maybe a month doing the transition I think, it'll depend on the difference between Avalonia and WPF
+~~I'll take maybe a month doing the transition I think, it'll depend on the difference between Avalonia and WPF~~
 
+Avalonia is not suitable for the task, not as compatible as I thought on transparency, and very different than WPF overall, especially for a software as specific as this.
+
+I may try to find a new cross platform suitable graphics library, if you have any suggestion, please tell me.
+
+The branch NEW.NET will be deleted and the OLD.NET will remain.
+
+## IMPORTANT UPDATE 2 :
+As you can see, I kinda stop working on it
+
+No, I haven't forget
+
+And there is a simple reason, no matter how much I try, I cannot do the port I want, but I have not a single idea on how to update otherwise, everything is here and there isn't any bug, I don't see what I can add, especially if I use less Windows than before
+So I may try once again
 
 # MonikAI
 
